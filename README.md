@@ -1,3 +1,3 @@
 # Fibonacci Sequence
 
-Recursive and non-recursive Fibonacci sequence in JavaScript.
+Recursive and iterative Fibonacci sequence in JavaScript.
